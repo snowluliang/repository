@@ -6,3 +6,4 @@ E
 F
 G
 sunshine is a app.
+sunshine is a weather app.
